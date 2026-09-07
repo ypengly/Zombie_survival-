@@ -84,9 +84,6 @@
 
 ## 🎯 Gameplay
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300/1a1a2e/ffffff?text=Gameplay+Loop+Diagram" alt="Gameplay Diagram" width="600">
-</p>
 
 **Survive the Arena:** You start in the middle of a large, destroyed city arena. Zombies spawn around you in waves that grow larger and harder over time — more zombies, faster zombies, tougher zombies, and eventually ranged and exploding variants.
 
@@ -99,6 +96,11 @@
 **The Run Ends:** When your health hits zero, the run ends. Your coins are banked, and your best stats are saved. How far can you survive?
 
 ---
+🎮 Play Now
+**[Play Zombie_survival in your browser →](https://yourusername.github.io/grandmas-great-chase/)**
+
+*No downloads, no installations, no sign-ups — just open and play!*
+
 
 ## 🎮 Controls
 
