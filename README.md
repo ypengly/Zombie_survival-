@@ -97,7 +97,7 @@
 
 ---
 🎮 Play Now
-**[Play Zombie_survival in your browser →](https://yourusername.github.io/grandmas-great-chase/)**
+**[Play Zombie_survival in your browser →](https://ypengly.github.io/Zombie_survival-/)**
 
 *No downloads, no installations, no sign-ups — just open and play!*
 
